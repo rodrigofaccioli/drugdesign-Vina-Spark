@@ -1,0 +1,14 @@
+*.pyc
+test/virtual_screening/analysis
+test/virtual_screening/*.log
+test/virtual_screening/config.ini
+test/virtual_screening/log/
+test/virtual_screening/structures/
+test/virtual_screening/docking_list.txt
+.idea
+.idea/drugdesign.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.DS_Store
