@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rodrigo/workspace/drugdesign/virtualscreening/vina/detect_hbonds/src/detect_hbonds.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+
